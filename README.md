@@ -1,1 +1,3 @@
 # home
+print "Hi"
+
